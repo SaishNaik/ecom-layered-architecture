@@ -1,0 +1,20 @@
+Problem:
+Monolithic Code becomes complicated and complex since everything is packed into one thing
+Adding new changes becomes difficult since the code is interconnected. New Changes can break existing working code
+even if the change is minor.
+Going through the code and maintaining it will become difficult since everything is highly coupled and to change/update one minor thing, we have to
+understand whole thing
+
+Architecture
+Layered Architecture
+
+Principles
+KISS
+YAGNI
+DRY
+Separation of Concern
+
+
+
+
+
